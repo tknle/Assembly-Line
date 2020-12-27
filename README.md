@@ -159,7 +159,7 @@ g++ -Wall -std=c++17 -g -o main CustomerOrder.cpp LineManager.cpp Station.cpp Ut
 
 Mia Le
 
-** To avoid plagiarism please do not copy the code. Refer to Mia Le any part of the code you copied **
+**To avoid plagiarism please do not copy the code. Refer to Mia Le any part of the code you copied**
 
 ## Project Link: 
 [Project Link](https://github.com/tknle/Assembly-Line)
