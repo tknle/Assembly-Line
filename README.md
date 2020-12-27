@@ -3,12 +3,14 @@
 ## Table of Contents
 * [Project Overview](#project-overview)
   * [Project Description](#project-description)
-  * [Menu](#menu)
-  * [Enter Vehicle Information Manually](#enter-vehicle)
-  * [Close Parking](#close-parking)
-  * [Exit Parking](#exit-parking)
+  * [Stations](#stations)
+  * [Filling Order](#filling-order)
+  * [Complete Filling Orders](#complete-filling-orders)
+  * [Inventory](#inventory)
 * [Getting Started](#getting-started)
   * [Compilation](#compilation)
+  * [Author](#author)
+  * [Project](#project)
 
 ## Project Overview
 
@@ -114,7 +116,8 @@ Chris T. - Micro Controller
 [987656] SSD              - FILLED
 ```
 
-## Inventory (After)
+## Inventory
+Display the inventory after filling orders
 
 ```sh
 ========================================
@@ -156,5 +159,5 @@ g++ -Wall -std=c++17 -g -o main CustomerOrder.cpp LineManager.cpp Station.cpp Ut
 
 Mia Le
 
-Project Link: 
+## Project Link: 
 [Project Link](https://github.com/tknle/Assembly-Line)
